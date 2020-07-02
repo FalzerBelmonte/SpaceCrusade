@@ -5498,3 +5498,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.02-02.50.02:859][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Character/FB_UpIdle]
 [2020.07.02-02.50.02:865][599]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Saved/FB_UpIdle_Auto177B57F0F40ED2B5D58B8B8A68C27750D.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Saved/Autosaves/Game/Sprites/Character/FB_UpIdle_Auto1.uasset'
 [2020.07.02-02.50.02:865][599]LogFileHelpers: Auto-saving content packages took 0.104
+[2020.07.02-03.10.19:039][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.07.02-03.10.19:040][227]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.022
+[2020.07.02-03.10.19:041][227]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Paper2D_Character] ([1] browsable assets)...
+[2020.07.02-03.10.19:041][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Paper2D_Character]
+[2020.07.02-03.10.19:129][227]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Saved/Paper2D_Character_Auto21930B728408615AB4DA2DFA335FA5929.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Saved/Autosaves/Game/Blueprints/Paper2D_Character_Auto2.uasset'
+[2020.07.02-03.10.19:129][227]LogFileHelpers: Auto-saving content packages took 0.088
