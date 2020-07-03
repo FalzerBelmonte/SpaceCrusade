@@ -1018,3 +1018,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.03-19.34.01:451][312]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015F17F36C00), frame # 76312
 [2020.07.03-19.34.01:455][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
 [2020.07.03-19.34.01:488][313]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.07.03-19.34.54:079][879]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Saved/BP_Checkpoint8DC048F442C877D0D4B3CBAB252A1EA6.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Content/Blueprints/Checkpoint/BP_Checkpoint.uasset'
+[2020.07.03-19.34.54:091][879]AssetCheck: New page: Asset Save: BP_Checkpoint
+[2020.07.03-19.34.54:091][879]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Checkpoint/BP_Checkpoint.BP_Checkpoint
+[2020.07.03-19.34.55:506][ 33]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Saved/BP_RespawnInterface39E4992F4A91E534646CE3A32014D337.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Content/Blueprints/Checkpoint/BP_RespawnInterface.uasset'
+[2020.07.03-19.34.55:517][ 33]AssetCheck: New page: Asset Save: BP_RespawnInterface
+[2020.07.03-19.34.55:517][ 33]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Checkpoint/BP_RespawnInterface.BP_RespawnInterface
+[2020.07.03-19.34.56:719][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.07.03-19.34.57:033][157]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Saved/TopDownExampleMap30C22A9F47BF5783D811DA91FAB4181C.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2020.07.03-19.34.57:090][157]LogSavePackage: Moving '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Saved/TopDownExampleMap_BuiltDataA313F29B4CB7CB781FC4AD98357A49C3.tmp' to '../../../../../../Unity/WeGottaPass/ThisTrimester/Name/Full_spectrum/SpaceCrusade - Morgan/SpaceCrusade/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.07.03-19.34.57:102][157]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.03-19.34.57:102][157]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2020.07.03-19.34.57:102][157]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
